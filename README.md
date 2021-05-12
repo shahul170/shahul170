@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahul170
+- 👋 Hi, I’m Shahul Shan
 - 👀 I’m interested in ... robotics,machinelearning,deeplearning,datascience
 - 🌱 I’m currently learning ...datascience
 - 💞️ I’m looking to collaborate on ...datscience
